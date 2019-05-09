@@ -31,6 +31,8 @@ Hopefully at some time in the future we will see a better looking HTML table. It
 
 I'm no PowerShell guru, but I've read some stuff about WMI not be the "best" thing since toast, so maybe there is a better implementation that someone can generate. I feel that WMI was the easiest to use since WinRM/PSRemoting is not needed. Other methods I've seen used CIM instances.
 
+After looking into CIM instances, there are a lot of benefits of using them, however.... There is one problem with CIM and one problem with the current environment I'm in. CIM requires WinRM. Goodnight.
+
 ## Regards
 
 My cat has a pretty organized inventory in her litter box. She's always brushing it around trying to find the one, and constantly adding new content daily. Truly fascinating. Plus it sounds better than some 46 year old naming convention like "Get-Inventory".
