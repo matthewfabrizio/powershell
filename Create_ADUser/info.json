@@ -1,0 +1,36 @@
+{
+    "Static" : {
+        "Title" : "User Title",
+        "Company" : "Company",
+        "State" : "State",
+        "Country" : "Country",
+        "EmailExtension" : "User Email Address (Extension only ex. organization.gmail.com",
+        "UserOU_Base" : "User OU Location (this will have to be changed heavily; see script)"
+    },
+    "Buildings" : {
+        "Building1" : {
+            "Building" : "Building1 Name",
+            "ProfilePath" : "Roaming Profile Path for Building1",
+            "City" : "City of Building1",
+            "Address" : "Address of Building1",
+            "Zip" : "Zip of Building1"
+        },
+        "Building2" : {
+            "Building" : "Building2 Name",
+            "ProfilePath" : "Roaming Profile Path for Building2",
+            "City" : "City of Building2",
+            "Address" : "Address of Building2",
+            "Zip" : "Zip of Building2"
+        }
+    },
+    "Groups" : {
+        "Course1" : "First Group",
+        "Course2" : "Second Group",
+        "Course3" : "Third Group"
+    },
+    "Descriptions" : {
+        "Course1" : "First Description",
+        "Course2" : "Second Description",
+        "Course3" : "Third Description"
+    }
+}
