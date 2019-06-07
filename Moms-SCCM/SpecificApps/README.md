@@ -1,0 +1,5 @@
+This directory would contain executables specific to a certain room or department. Unfortunately, at this point in time, there is no real good automation for this (i.e. you can't just dump any .exe or .msi file in this directory and expect it to install). You especially can't just add a directory with nested directories with executables because the script will have no idea what you're talking about.
+
+I'm not even really sure how to make this process any easier, as all software is different. For example, the only thing I use in here is a directory with two nested directories. They each contain there own EXE files and other source files. The script has a function that basically copies the folders to `C:\Program Files` and `C:\Program Files (x86)` respectively. It then makes start menu entries and updates the public desktop.
+
+Basically, be prepared to write your own custom function in the script. 

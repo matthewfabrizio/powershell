@@ -1,0 +1,40 @@
+[6/6/2019 2:52 PM] => Starting Configuration on [HOSTNAME]
+
+[6/6/2019 2:53 PM] => CONFIG
+Asset Tag        : [ASSET]
+Applied to       : [Student]
+Configuring      : [HOSTNAME]
+Domain           : [DOMAIN]
+App Location     : [D:\Part1\Deploy\StandardApps]
+Specific Apps    : [D:\Part1\Deploy\SpecificApps]
+App Associations : [D:\Part1\Deploy\DefaultAppAssociations]
+Taskbar Layout   : [D:\Part1\Deploy\DefaultTaskbarLayout]
+Office Location  : [D:\Part1\Deploy\Office2016]
+Net Repair       : [D:\Part1\Deploy\NetRepair]
+Log Location     : [D:\Part1\Deploy\Log\status.log]
+
+[6/6/2019 2:53 PM] => User selected : [y] - changes initiating
+[6/6/2019 2:53 PM] => Changing registry keys
+[6/6/2019 2:53 PM] => You chose to install Adobe Acrobat DC only
+[6/6/2019 2:53 PM] => Installing Acrobat Reader
+[6/6/2019 2:54 PM] => Adobe Acrobat successfully installed
+
+[6/6/2019 2:54 PM] => You've opted out of installing any specific apps
+[6/6/2019 2:54 PM] => Repairing .NET Framework
+[6/6/2019 2:54 PM] => .Net Repair Tool Installed Successfully
+
+[6/6/2019 2:54 PM] => Installing Office for Student
+[6/6/2019 2:58 PM] => Activating key...
+[6/6/2019 2:58 PM] => Office installed at C:\Program Files (x86)\Microsoft Office\Office16\
+[6/6/2019 2:58 PM] => System Information logged at PATH
+[6/6/2019 2:58 PM] => Setting timezone to Eastern
+[6/6/2019 2:58 PM] => Timezone set to EST
+[6/6/2019 2:58 PM] => Changing Start Menu Layout for all new users
+[6/6/2019 2:58 PM] => AppAssociations.xml works! yahoo!
+[6/6/2019 2:58 PM] => Modifying power settings
+[6/6/2019 2:58 PM] => Hopefully power settings changed :)
+[6/6/2019 2:59 PM] => User chose not to add to DOMAIN
+[6/6/2019 2:59 PM] => Removed ms_tcpip6 and ms_server from all network interfaces
+[6/6/2019 2:59 PM] => Enabled Network Discovery
+[6/6/2019 2:59 PM] => Enabling PSRemoting
+[6/6/2019 2:59 PM] => PSRemoting Enabled
