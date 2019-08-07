@@ -1,6 +1,4 @@
-# Add-CatUser
-
-Named after my cats, and also because Add-ADUser would be kinda strange.
+# Add-UserAD
 
 ## Description
 
