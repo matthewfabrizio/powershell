@@ -1,4 +1,4 @@
-<h2 align="center">Get-ACDCPowerCfg</h2>
+<h3 align="center">Get-ACDCPowerCfg</h3>
 
 <div align="center">
 
