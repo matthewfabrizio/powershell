@@ -6,10 +6,6 @@
 
 </div>
 
----
-
-<h3 align="center">This script is designed to fetch powercfg.exe data from your active power scheme by default.</h3>
-
 ## About
 Gets the power values of AC / DC from the active power scheme.
 Values from SCHEME_BALANCED are typical in most settings.
