@@ -1,3 +1,0 @@
-This directory contains an executable to repair the .NET framework. I can't really say why this is necessary, but I did run into an error installing Microsoft Office a couple of times and this fixed it. So, I run this every time just as a precautionary measure.
-
-I'm not going to add the .exe because there isn't really a point. If you're going to use this script you shouldn't just copy and paste it, you should use it as a __reference__ to write your own.
